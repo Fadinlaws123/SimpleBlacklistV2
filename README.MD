@@ -17,7 +17,7 @@
 
 3. Support & Assistance
 
-    - For assistance / help with this resource, join the official SimpleDevelopments discord @ https://discord.gg/WcCuQ2JzJV
+    - For assistance / help with this resource, join the official SimpleDevelopments discord @ https://discord.gg/UwcwpquY9K
     - Open a ticket 
     - State your issue / question and await support members reply!
 
